@@ -27,8 +27,4 @@ Este repositório foi organizado para apresentar **6 vídeos** de visualização
 
 ## Ilustração do método (futuro)
 
-Quando você quiser adicionar a ilustração do método, coloque a imagem em:
-
 `/assets/illustrations/`
-
-Exemplo de nome: `metodo.png`.
