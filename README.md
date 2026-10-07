@@ -40,4 +40,4 @@ Cada vídeo contém **cinco passagens do objeto oclusor sobre cada olho do pacie
 
 ## Ilustração do método (futuro)
 
-`/assets/illustrations/`
+![Ilustração do método](assets/SAM3_method.png)
